@@ -1,5 +1,12 @@
 📉🔍 Customer Churn Prediction using 🤖 Logistic Regression & XGBoost
-This 📦 repository contains a project focused on predicting customer churn 🔄 in a banking environment using advanced machine learning techniques. The dataset contains customer information 🧾 including financial status, account activity, and demographics. Three models have been implemented — Logistic Regression (with 5️⃣ and 🔟 features) and an optimized XGBoost classifier 🚀 — to identify customers who are likely to leave the bank 🏦.
+
+This 📦 repository contains a project focused on predicting customer churn 🔄 in a banking environment using advanced machine learning techniques.
+
+The dataset contains customer information 🧾 including financial status, account activity, and demographics. 
+
+Three models have been implemented — Logistic Regression (with 5️⃣ and 🔟 features) and an optimized XGBoost classifier 
+
+🚀 — to identify customers who are likely to leave the bank 🏦.
 
 📁 Contents:
  logistic_regression_5_features.py — Logistic regression model using 5 features.
@@ -43,25 +50,25 @@ This project implements:
  
     Visualize feature distributions, correlation heatmaps, and outlier detection using boxplots 📦.
     
- 3)Feature Engineering
+ 3)  Feature Engineering
  
- 4)Logistic regression uses polynomial interaction terms.
+ 4)  Logistic regression uses polynomial interaction terms.
  
- 5)XGBoost pipeline includes Label Encoding, PCA, and robust scaling for numerical features.
+ 5)  XGBoost pipeline includes Label Encoding, PCA, and robust scaling for numerical features.
  
- 6)Model Building
+ 6)  Model Building
  
- 7)Logistic Regression with 5 and 10 features.
+ 7)  Logistic Regression with 5 and 10 features.
  
- 8)XGBoost with GridSearchCV-based hyperparameter tuning and SMOTE.
+ 8)  XGBoost with GridSearchCV-based hyperparameter tuning and SMOTE.
  
- 9)Model Evaluation
+ 9)  Model Evaluation
  
- 10)Evaluate using Accuracy ✔️, Precision 🎯, Recall 🔁, F1 Score 📊, and Confusion Matrix 🔀.
+ 10) Evaluate using Accuracy ✔️, Precision 🎯, Recall 🔁, F1 Score 📊, and Confusion Matrix 🔀.
  
- Feature Importance & PCA Analysis
+    Feature Importance & PCA Analysis
  
- Understand which features or principal components impact churn predictions the most 💥.
+   Understand which features or principal components impact churn predictions the most 💥.
 
 
  📊 Dataset
