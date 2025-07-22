@@ -8,6 +8,7 @@ Three models have been implemented — Logistic Regression (with 5️⃣ and �
 
 🚀 — to identify customers who are likely to leave the bank 🏦.
 
+
 📁 Contents:
  logistic_regression_5_features.py — Logistic regression model using 5 features.
  
@@ -20,6 +21,7 @@ Three models have been implemented — Logistic Regression (with 5️⃣ and �
  README.md — This 📄 file, describing project structure and usage.
  
  requirements.txt — List of required libraries for the project.
+ 
 
 🌟 Project Overview
 
@@ -40,6 +42,7 @@ This project implements:
    ⚙️ PCA for dimensionality reduction
    
    🧠 Model tuning using GridSearchCV
+   
 
 🔧 Steps Followed
  1)Data Loading and Cleaning
@@ -69,6 +72,7 @@ This project implements:
     Feature Importance & PCA Analysis
  
    Understand which features or principal components impact churn predictions the most 💥.
+   
 
 
  📊 Dataset
@@ -82,6 +86,7 @@ This project implements:
  Features include: CreditScore, Age, Tenure, Balance, NzumOfProducts, IsActiveMember, EstimatedSalary
  
  Categorical: Geography, Gender
+
 
 
 📊 Visualizations
